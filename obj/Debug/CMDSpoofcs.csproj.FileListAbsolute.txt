@@ -1,0 +1,7 @@
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\bin\Debug\CMDSpoofcs.exe.config
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\bin\Debug\CMDSpoofcs.exe
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\bin\Debug\CMDSpoofcs.pdb
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\obj\Debug\CMDSpoofcs.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\obj\Debug\CMDSpoofcs.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\obj\Debug\CMDSpoofcs.exe
+C:\Users\Gabi\source\repos\CMDSpoofcs\CMDSpoofcs\obj\Debug\CMDSpoofcs.pdb
