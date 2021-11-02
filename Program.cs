@@ -27,6 +27,7 @@ namespace CMDSpoofcs
                 ForegroundColor = ConsoleColor.Yellow;
                 WriteLine("CMD Spoof. Made by DoggoBytes.");
                 WriteLine("Source code available here: https://github.com/DD2476/CMDSpoofCS/");
+                WriteLine("Project website: https://dd2476ste1.7m.pl/projects/CMDSpoof/");
                 WriteLine("There are no 'default' commands. You will have to create your own inside the source code.");
                 WriteLine("");
                 ForegroundColor = ConsoleColor.Red;
